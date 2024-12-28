@@ -35,6 +35,11 @@ Make sure you have Expo Go installed on your mobile device.
 2. Run `npm install` to install dependencies.
 3. Run `npm start` to start the project.
 4. Open the app in the Expo Go app using the provided URL.
+
+#TO RUN ON EXPO GO APP
+1. Run `expo init` and enter app-name
+2. cd `app-name` 
+3. run `npm start` and scan the qrcode or enter code manually.
 ## Installation
 
 1. **Clone the repository**:
