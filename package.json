@@ -1,0 +1,37 @@
+{
+  "name": "calculator_app",
+  "license": "0BSD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~4.0.0",
+    "expo": "~52.0.23",
+    "expo-dev-client": "^5.0.7",
+    "expo-status-bar": "~2.0.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-native": "0.76.5",
+    "react-native-paper": "^5.12.5",
+    "react-native-web": "~0.19.13"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true,
+  "description": "this is a react-native based application ",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ParikshitJ06/calculator_app.git"
+  },
+  "author": "Parikshit Jadhav",
+  "bugs": {
+    "url": "https://github.com/ParikshitJ06/calculator_app/issues"
+  },
+  "homepage": "https://github.com/ParikshitJ06/calculator_app#readme"
+}

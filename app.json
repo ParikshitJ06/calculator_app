@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "CalculatorApp",
+    "slug": "calculator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.parikshitJadhav.CalculatorApp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/calculator_icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.parikshitJadhav.CalculatorApp"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1e22312f-909f-411d-9149-92530c8914b4"
+      }
+    },
+    "owner": "jparikshit0510"
+  }
+}
