@@ -15,8 +15,11 @@ This is a simple and responsive calculator app built with React Native. It featu
 
 ## Screenshots
 ## Screenshot
-
+WebApp
 <img src="./assets/screenshot.png" alt="Screenshot of WebApp " width="600">
+Android App
+<img src="./assets/screenshot2.jpg" alt="Screenshot of AndroidApp " width="600">
+<img src="./assets/screenshot3.jpg" alt="Screenshot of AndroidApp " width="600">
 
 ## Deployed on Expo Go
 
