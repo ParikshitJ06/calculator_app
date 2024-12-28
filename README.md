@@ -1,48 +1,61 @@
-# calculator_app
-# React Native Calculator App
+# **Calculator App**  
+## **React Native Calculator App**  
 
-This is a simple and responsive calculator app built with React Native. It features a user-friendly interface for basic mathematical operations and includes enhancements like expression evaluation, digit deletion, and visually distinct input and result displays.
+A simple and responsive calculator app built with React Native. It features a user-friendly interface for basic mathematical operations and includes enhancements like expression evaluation, digit deletion, and visually distinct input and result displays.
 
-## Features
+---
 
-- **Basic Operations**: Addition, subtraction, multiplication, and division.
-- **Expression Evaluation**: Enter expressions (e.g., `7+7`) and get the result instantly.
-- **Digit Deletion**: Remove the last entered digit with a single tap.
-- **Responsive UI**: Optimized for both Android and iOS devices.
-- **Enhanced Display**:
-  - Input expressions are bold with reduced opacity for clarity.
-  - Results are bold and displayed in black for emphasis.
+## **Features**  
 
-## Screenshots
-## Screenshot
-WebApp
-<img src="./assets/screenshot.png" alt="Screenshot of WebApp " width="600">
-Android App
-<img src="./assets/screenshot2.jpg" alt="Screenshot of AndroidApp " width="600">
-<img src="./assets/screenshot3.jpg" alt="Screenshot of AndroidApp " width="600">
+- **Basic Operations**: Perform addition, subtraction, multiplication, and division.  
+- **Expression Evaluation**: Enter expressions (e.g., `7+7`) and get results instantly.  
+- **Digit Deletion**: Remove the last entered digit with a single tap.  
+- **Responsive UI**: Optimized for both Android and iOS devices.  
+- **Enhanced Display**:  
+  - Input expressions are bold with reduced opacity for clarity.  
+  - Results are bold and displayed in black for emphasis.  
 
-## Deployed on Expo Go
+---
 
-You can view and test the app using Expo Go. To run the app, scan the QR code with the Expo Go app or use the following URL:
+## **Screenshots**  
 
-[Expo URL](exp://192.168.31.164:8081)
+### Web App  
+![Screenshot of WebApp](./assets/screenshot.png)  
 
-Make sure you have Expo Go installed on your mobile device.
+### Android App  
+![Screenshot of AndroidApp](./assets/screenshot2.jpg)  
+![Screenshot of AndroidApp](./assets/screenshot3.jpg)  
 
-## How to Run the App
+---
 
-1. Clone the repository.
-2. Run `npm install` to install dependencies.
-3. Run `npm start` to start the project.
-4. Open the app in the Expo Go app using the provided URL.
+## **Deployed on Expo Go**  
 
-#TO RUN ON EXPO GO APP
-1. Run `expo init` and enter app-name
-2. cd `app-name` 
-3. run `npm start` and scan the qrcode or enter code manually.
-## Installation
+View and test the app using Expo Go.  
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/calculator-app.git
-   cd calculator-app
+- **To run the app**:  
+  Scan the QR code with the Expo Go app or use the following URL:  
+  [Expo URL](exp://192.168.31.164:8081)  
+
+Ensure you have Expo Go installed on your mobile device.  
+
+---
+
+## **How to Run the App Locally**  
+
+1. Clone the repository:  
+   
+   1.`git clone https://github.com/ParikshitJ06/calculator-app.git`
+   2.`cd calculator-app`
+   3.`npm install`
+   4.`npm start`
+
+   
+# **To Run on Expo Go App**
+ *Initialize the project:*
+ 
+    expo init app-name
+    Navigate to the project directory: cd app-name
+    Start the project: npm start
+    Scan the QR code or enter the code manually in the Expo Go app.
+
+
